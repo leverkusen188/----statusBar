@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
 
-@protocol MTCustomLabelViewDelegate;//xi
+@protocol MTCustomLabelViewDelegate;//
 
 @interface MTCustomLabelView : UILabel {
     id<MTCustomLabelViewDelegate>   delegate;
