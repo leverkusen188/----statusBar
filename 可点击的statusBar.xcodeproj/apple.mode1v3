@@ -274,8 +274,9 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>20</integer>
-									<integer>19</integer>
+									<integer>2</integer>
+									<integer>1</integer>
+									<integer>0</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
@@ -316,7 +317,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>MTStatusBarOverlay.m</string>
+								<string>MTCustomLabelView.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -324,11 +325,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>MTStatusBarOverlay.m</string>
+										<string>MTCustomLabelView.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>181E277215A443EA00ADA8BC</string>
+										<string>181E277A15A4480500ADA8BC</string>
 										<key>history</key>
 										<array>
 											<string>18D1B56715A16EC5001BC8A0</string>
@@ -336,7 +337,8 @@
 											<string>18D1B5A715A177BC001BC8A0</string>
 											<string>18D1B5A915A177BC001BC8A0</string>
 											<string>1808F2DC15A2D37000D4F331</string>
-											<string>1808F2DE15A2D37000D4F331</string>
+											<string>181E277815A4480500ADA8BC</string>
+											<string>181E277915A4480500ADA8BC</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
