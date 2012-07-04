@@ -328,7 +328,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>1808F2DE15A2D37000D4F331</string>
+										<string>181E277215A443EA00ADA8BC</string>
 										<key>history</key>
 										<array>
 											<string>18D1B56715A16EC5001BC8A0</string>
@@ -336,7 +336,7 @@
 											<string>18D1B5A715A177BC001BC8A0</string>
 											<string>18D1B5A915A177BC001BC8A0</string>
 											<string>1808F2DC15A2D37000D4F331</string>
-											<string>1808F2DD15A2D37000D4F331</string>
+											<string>1808F2DE15A2D37000D4F331</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -348,14 +348,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1592, 698}}</string>
+								<string>{{0, 0}, {1592, 694}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 129 1920 929 0 0 1920 1058 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>698pt</string>
+							<string>694pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -368,14 +368,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 703}, {1592, 185}}</string>
+								<string>{{0, 699}, {1592, 189}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 129 1920 929 0 0 1920 1058 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>185pt</string>
+							<string>189pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -394,9 +394,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>1808F2DF15A2D37000D4F331</string>
+				<string>181E277315A443EA00ADA8BC</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>1808F2E015A2D37000D4F331</string>
+				<string>181E277415A443EA00ADA8BC</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -535,7 +535,7 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>18D1B56D15A16EC5001BC8A0</string>
-		<string>/Users/apple/jianghui.liu/test/可点击的statusBar/可点击的statusBar.xcodeproj</string>
+		<string>/Users/apple/jianghui.liu/git/可点击的statusBar/可点击的statusBar.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>0 129 1920 929 0 0 1920 1058 </string>
@@ -615,7 +615,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>18D1B56D15A16EC5001BC8A0</string>
-				<string>1808F2E115A2D37000D4F331</string>
+				<string>181E277515A443EA00ADA8BC</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>

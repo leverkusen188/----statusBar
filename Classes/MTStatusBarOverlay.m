@@ -1262,7 +1262,7 @@ unsigned int statusBarBackgroundGreySmall_png_len = 1015;
 	}
 }
 
-- (void)setShrinked:(BOOL)shrinked animated:(BOOL)animated {
+- (void)setShrinked:(BOOL)shrinked animated:(BOOL)animated {  
 	[UIView animateWithDuration:animated ? kAnimationDurationShrink : 0
 					 animations:^{
 						 // update status bar background
